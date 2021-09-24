@@ -1,0 +1,4 @@
+git+https://github.com/hikari-py/hikari@f9e19a9c475bdbf9432b80ecd724f777775f6784
+matrix-nio
+python-dotenv
+nest-asyncio
